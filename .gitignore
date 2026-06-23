@@ -55,3 +55,17 @@ CodeCoverage/
 *.VisualState.xml
 TestResult.xml
 nunit-*.xml
+
+# Rider
+.idea/
+
+# VS Code
+.vscode/
+
+# Local secrets
+secrets.json
+
+# Coverage
+coverage/
+*.coverage
+*.coveragexml
